@@ -1,0 +1,299 @@
+Stand UTC: 2026-10-09 10:18
+Insgesamt: 278 unterschiedliche Sender-IDs
+EPG gefunden: 193 Sender-IDs
+Nicht gefunden: 85 Sender-IDs
+Programme: 21952
+
+QUELLEN
+EPGShare Türkei: 55 neue Sender-IDs zugeordnet
+EPGShare Deutschland: 90 neue Sender-IDs zugeordnet
+EPGShare Österreich: 11 neue Sender-IDs zugeordnet
+IPTV-EPG Türkei: 24 neue Sender-IDs zugeordnet
+IPTV-EPG Deutschland: 13 neue Sender-IDs zugeordnet
+NICHT ERREICHBAR: IPTV-org Türkei TV+: HTTP Error 404: Not Found
+NICHT ERREICHBAR: IPTV-org Türkei Digiturk: HTTP Error 404: Not Found
+NICHT ERREICHBAR: IPTV-org Türkei D-Smart: HTTP Error 404: Not Found
+NICHT ERREICHBAR: IPTV-org Deutschland: HTTP Error 404: Not Found
+NICHT ERREICHBAR: IPTV-org Österreich: HTTP Error 404: Not Found
+
+ZUGEORDNET (eigene ID <- Quell-ID)
+13thstreet.de <- 13THSTREET.de [IPTV-EPG Deutschland]
+360.tr <- 360.tr [EPGShare Türkei]
+3sat.de <- 3sat.de [EPGShare Deutschland]
+a2tv.tr <- A2.tr [EPGShare Türkei]
+ahaber.tr <- A.HABER.tr [EPGShare Türkei]
+anews.tr <- ANews.tr [IPTV-EPG Türkei]
+animalplanet.de <- Animal.Planet.de [EPGShare Deutschland]
+anixe.de <- ANIXE.de [EPGShare Deutschland]
+apara.tr <- A.PARA.tr [EPGShare Türkei]
+ard.de <- Das.Erste.de [EPGShare Deutschland]
+ardalpha.de <- ARD.alpha.de [EPGShare Deutschland]
+arte.de <- ARTE.de [EPGShare Deutschland]
+aspor.tr <- A.SPOR.tr [EPGShare Türkei]
+atv.at <- ATV.at [EPGShare Österreich]
+atv.tr <- ATV.tr [EPGShare Türkei]
+atv2.at <- ATV2.at [EPGShare Österreich]
+babytv.tr <- BABY.TV.tr [EPGShare Türkei]
+bbcearth.tr <- BBCEARTH.tr [IPTV-EPG Türkei]
+beinsports3.tr <- beINSPORTS3.tr [IPTV-EPG Türkei]
+beinsports4.tr <- beINSPORTS4.tr [IPTV-EPG Türkei]
+beinsportshaber.tr <- Bein.Sports.Haber.tr [EPGShare Türkei]
+beinsportsmax1.tr <- beIN.SPORTS.MAX.1.tr [EPGShare Türkei]
+beinsportsmax2.tr <- beIN.SPORTS.MAX.2.tr [EPGShare Türkei]
+benguturk.tr <- BENGÜ.TÜRK.tr [EPGShare Türkei]
+beyaztv.tr <- BEYAZ.TV.tr [EPGShare Türkei]
+bibeltv.de <- Bibel.TV.de [EPGShare Deutschland]
+bild.de <- DF1.de [EPGShare Deutschland]
+bloomberght.tr <- BLOOMBERG.HT.tr [EPGShare Türkei]
+br.de <- BR.de [EPGShare Deutschland]
+cartoonito.tr <- Cartoonito.tr [IPTV-EPG Türkei]
+cartoonnetwork.de <- Cartoon.Network.de [EPGShare Deutschland]
+cartoonnetwork.tr <- CARTOON.NETWORK.tr [EPGShare Türkei]
+cnnturk.tr <- CNN.TÜRK.tr [EPGShare Türkei]
+comedycentral.de <- Comedy.Central.de [EPGShare Deutschland]
+davinci.tr <- DaVinci.tr [IPTV-EPG Türkei]
+dazn1.de <- DAZN.1.de [EPGShare Deutschland]
+dazn2.de <- DAZN.2.de [EPGShare Deutschland]
+deluxemusic.de <- DELUXE.MUSIC.de [EPGShare Deutschland]
+discoverychannel.tr <- DiscoveryChannel.tr [IPTV-EPG Türkei]
+discoveryid.tr <- DISCOVERY.ID.tr [EPGShare Türkei]
+disneychannel.de <- Disney.Channel.de [EPGShare Deutschland]
+disneyjunior.tr <- DisneyJunior.tr [IPTV-EPG Türkei]
+dizismartmax.tr <- DiziSmartMax.tr [IPTV-EPG Türkei]
+dizismartpremium.tr <- DiziSmartPremium.tr [IPTV-EPG Türkei]
+dmax.de <- DMAX.de [EPGShare Deutschland]
+dmax.tr <- DMAX.tr [EPGShare Türkei]
+dokusat.de <- dokusat.de [IPTV-EPG Deutschland]
+eentertainment.de <- E_Entertainment.de [IPTV-EPG Deutschland]
+esports1.de <- eSports1.de [EPGShare Deutschland]
+eurosport1.de <- Eurosport.1.de [EPGShare Deutschland]
+eurosport1.tr <- Eurosport1.tr [IPTV-EPG Türkei]
+eurosport2.de <- Eurosport.2.de [EPGShare Deutschland]
+eurosport2.tr <- Eurosport2.tr [IPTV-EPG Türkei]
+fbtv.tr <- FBTV.tr [IPTV-EPG Türkei]
+filmbox.tr <- FilmBox.tr [IPTV-EPG Türkei]
+fox.tr <- FOX.tr [EPGShare Türkei]
+geotelevision.de <- GEO.Television.de [EPGShare Deutschland]
+haberglobal.tr <- HABERGLOBAL.tr [IPTV-EPG Türkei]
+haberturk.tr <- HABERTÜRK.tr [EPGShare Türkei]
+hgtv.de <- HGTV.de [IPTV-EPG Deutschland]
+history.de <- HISTORY.de [IPTV-EPG Deutschland]
+hr.de <- HR.de [EPGShare Deutschland]
+hse24.de <- HSE24.de [IPTV-EPG Deutschland]
+kabel1.de <- kabel.eins.de [EPGShare Deutschland]
+kabeleinsdoku.de <- kabel.eins.Doku.de [EPGShare Deutschland]
+kanal7.tr <- KANAL.7.tr [EPGShare Türkei]
+kanald.tr <- KANAL.D.tr [EPGShare Türkei]
+kika.de <- KIKA.de [EPGShare Deutschland]
+ktv.de <- K-TV.de [EPGShare Deutschland]
+linetv.tr <- LINETV.tr [EPGShare Türkei]
+marcopolotv.de <- Marco.Polo.TV.de [EPGShare Deutschland]
+mdr.de <- MDR.de [EPGShare Deutschland]
+minikacocuk.tr <- MİNİKA.ÇOCUK.tr [EPGShare Türkei]
+minikago.tr <- MİNİKA.GO.tr [EPGShare Türkei]
+motorvision.de <- Motorvision+.de [EPGShare Deutschland]
+moviesmartclassic.tr <- MovieSmartClassic.tr [IPTV-EPG Türkei]
+moviesmartturk.tr <- MovieSmartTurk.tr [IPTV-EPG Türkei]
+n24doku.at <- N24.DOKU.at [EPGShare Österreich]
+n24doku.de <- N24.DOKU.de [EPGShare Deutschland]
+natgeo.de <- NationalGeographic.de [IPTV-EPG Deutschland]
+natgeo.tr <- NATIONAL.GEOGRAPHIC.tr [EPGShare Türkei]
+natgeowild.de <- NAT.GEO.WILD.de [EPGShare Deutschland]
+natgeowild.tr <- NATIONAL.GEOGRAPHIC.WILD.tr [EPGShare Türkei]
+ndr.de <- NDR.de [EPGShare Deutschland]
+nickjr.de <- Nick.Jr..de [EPGShare Deutschland]
+nickjr.tr <- NickJr.tr [IPTV-EPG Türkei]
+nicktoons.de <- Nicktoons.de [EPGShare Deutschland]
+nowus.de <- NOW.US.de [EPGShare Deutschland]
+ntv.de <- ntv.de [EPGShare Deutschland]
+ntv.tr <- NTV.tr [EPGShare Türkei]
+one.de <- ONE.de [EPGShare Deutschland]
+orf1.at <- ORF.1.at [EPGShare Österreich]
+orf2.at <- ORF.2.at [EPGShare Österreich]
+orf2.de <- ORF.2.de [EPGShare Deutschland]
+orf3.at <- ORF.3.at [EPGShare Österreich]
+orfsport.at <- ORF.SPORT.at [EPGShare Österreich]
+phoenix.de <- PHOENIX.de [EPGShare Deutschland]
+pro7.de <- ProSieben.de [EPGShare Deutschland]
+prosiebenfun.de <- ProSieben.Fun.de [EPGShare Deutschland]
+prosiebenmaxx.de <- ProSieben.MAXX.de [EPGShare Deutschland]
+puls24.at <- PULS.24.at [EPGShare Österreich]
+puls4.at <- PULS.4.at [EPGShare Österreich]
+qvc.de <- QVC.de [EPGShare Deutschland]
+rbb.de <- RBB.de [EPGShare Deutschland]
+rtl.de <- RTL.de [EPGShare Deutschland]
+rtl2.de <- RTLZWEI.de [EPGShare Deutschland]
+rtlcrime.de <- RTL.Crime.de [EPGShare Deutschland]
+rtlliving.de <- RTL.Living.de [EPGShare Deutschland]
+rtlnitro.de <- NITRO.de [EPGShare Deutschland]
+rtlpassion.de <- RTL.Passion.de [EPGShare Deutschland]
+rtlup.de <- RTLup.de [EPGShare Deutschland]
+sat1.at <- SAT.1.at [EPGShare Österreich]
+sat1.de <- SAT.1.de [EPGShare Deutschland]
+sat1emotions.de <- SAT.1.emotions.de [EPGShare Deutschland]
+sat1gold.de <- SAT.1.Gold.de [EPGShare Deutschland]
+servustv.at <- SERVUS.TV.at [EPGShare Österreich]
+showtv.tr <- SHOW.TV.tr [EPGShare Türkei]
+silverline.de <- Silverline.de [EPGShare Deutschland]
+sinema1001hd.tr <- SİNEMA.1001.HD.tr [EPGShare Türkei]
+sinema1002.tr <- SİNEMA.1002.tr [EPGShare Türkei]
+sinema2hd.tr <- SİNEMA.2.HD.tr [EPGShare Türkei]
+sinemaaile2hd.tr <- SİNEMA.AİLE.2.HD.tr [EPGShare Türkei]
+sinemaailehd.tr <- SİNEMA.AİLE.HD.tr [EPGShare Türkei]
+sinemaaksiyon2hd.tr <- SİNEMA.AKSİYON.2.HD.tr [EPGShare Türkei]
+sinemaaksiyonhd.tr <- SİNEMA.AKSİYON.HD.tr [EPGShare Türkei]
+sinemakomedi2hd.tr <- SİNEMA.KOMEDİ.2.HD.tr [EPGShare Türkei]
+sinemakomedihd.tr <- SİNEMA.KOMEDİ.HD.tr [EPGShare Türkei]
+sinematvhd.tr <- SİNEMA.TV.HD.tr [EPGShare Türkei]
+sinemayerli.tr <- SİNEMA.YERLİ.tr [EPGShare Türkei]
+sinemayerli2.tr <- SİNEMA.YERLİ.2.tr [EPGShare Türkei]
+sixx.de <- sixx.de [EPGShare Deutschland]
+skyatlantic.de <- SkyAtlantic.de [IPTV-EPG Deutschland]
+skycinemaaction.de <- SkyCinemaAction.de [IPTV-EPG Deutschland]
+skycinemaclassics.de <- SkyCinemaClassics.de [IPTV-EPG Deutschland]
+skycinemahighlights.de <- SkyCinemaHighlights.de [IPTV-EPG Deutschland]
+skykrimi.de <- Sky.Krimi.de [EPGShare Deutschland]
+skyreplay.de <- sky.replay.de [EPGShare Deutschland]
+skyshowcasehd.de <- Sky.Showcase.HD.de [EPGShare Deutschland]
+skysport1.de <- Sky.Sport.1.de [EPGShare Deutschland]
+skysport10.de <- Sky.Sport.10.de [EPGShare Deutschland]
+skysport2.de <- Sky.Sport.2.de [EPGShare Deutschland]
+skysport3.de <- Sky.Sport.3.de [EPGShare Deutschland]
+skysport4.de <- Sky.Sport.4.de [EPGShare Deutschland]
+skysport5.de <- Sky.Sport.5.de [EPGShare Deutschland]
+skysport6.de <- Sky.Sport.6.de [EPGShare Deutschland]
+skysport7.de <- Sky.Sport.7.de [EPGShare Deutschland]
+skysport8.de <- Sky.Sport.8.de [EPGShare Deutschland]
+skysport9.de <- Sky.Sport.9.de [EPGShare Deutschland]
+skysportf1.de <- Sky.Sport.F1.de [EPGShare Deutschland]
+skysportgolf.de <- Sky.Sport.Golf.de [EPGShare Deutschland]
+skysportmix.de <- Sky.Sport.Mix.de [EPGShare Deutschland]
+skysportnews.de <- Sky.Sport.News.de [EPGShare Deutschland]
+skysportpremierleague.de <- Sky.Sport.Premier.League.de [EPGShare Deutschland]
+skysporttennis.de <- Sky.Sport.Tennis.de [EPGShare Deutschland]
+skysporttopevent.de <- Sky.Sport.Top.Event.de [EPGShare Deutschland]
+spiegelgeschichte.de <- Spiegel.Geschichte.de [EPGShare Deutschland]
+sport1.de <- SPORT1.de [EPGShare Deutschland]
+sportstv.tr <- SPORTS.TV.tr [EPGShare Türkei]
+srfernsehen.de <- SRFernsehen.de [IPTV-EPG Deutschland]
+ssport.tr <- SSport.tr [EPGShare Türkei]
+startv.tr <- STAR.TV.tr [EPGShare Türkei]
+superrtl.de <- SUPER.RTL.de [EPGShare Deutschland]
+swrsr.de <- SWR/SR.de [EPGShare Deutschland]
+syfy.de <- SyFy.de [EPGShare Deutschland]
+tagesschau24.de <- tagesschau24.de [EPGShare Deutschland]
+tele5.de <- Tele.5.de [EPGShare Deutschland]
+teve2.tr <- TEVE2.tr [EPGShare Türkei]
+tgrthaber.tr <- TGRT.HABER.tr [EPGShare Türkei]
+tlc.de <- TLC.de [EPGShare Deutschland]
+toggoplus.de <- TOGGO.plus.de [EPGShare Deutschland]
+trt1.tr <- TRT.1.tr [EPGShare Türkei]
+trt2.tr <- TRT2.tr [IPTV-EPG Türkei]
+trt4k.tr <- TRT4K.tr [IPTV-EPG Türkei]
+trtavaz.tr <- TRTAVAZ.tr [IPTV-EPG Türkei]
+trtbelgesel.tr <- TRT.BELGESEL.tr [EPGShare Türkei]
+trtmuzik.tr <- TRT.MÜZİK.tr [EPGShare Türkei]
+trtspor.tr <- TRT.SPOR.tr [EPGShare Türkei]
+trtsporyildiz.tr <- TRTSPORYILDIZ.tr [IPTV-EPG Türkei]
+trtturk.tr <- TRT.TÜRK.tr [EPGShare Türkei]
+trtworld.tr <- TRTWorld.tr [IPTV-EPG Türkei]
+tv8.tr <- TV8.tr [EPGShare Türkei]
+tv85.tr <- TV8,5.tr [IPTV-EPG Türkei]
+tvnet.tr <- TVNET.tr [EPGShare Türkei]
+ulketv.tr <- ÜLKE.TV.tr [EPGShare Türkei]
+ulusalkanal.tr <- ULUSAL.KANAL.tr [EPGShare Türkei]
+viasatexplore.tr <- VIASAT.EXPLORE.tr [EPGShare Türkei]
+vox.de <- VOX.de [EPGShare Deutschland]
+wdr.de <- WDR.de [EPGShare Deutschland]
+welt.de <- WELT.de [EPGShare Deutschland]
+weltderwunder.de <- WeltderWunder.de [IPTV-EPG Deutschland]
+zdf.de <- ZDF.de [EPGShare Deutschland]
+zdfinfo.de <- ZDFinfo.de [EPGShare Deutschland]
+zdfneo.de <- ZDFneo.de [EPGShare Deutschland]
+
+OHNE ZUORDNUNG
+24.tr | TR: HT SPOR HD
+automotorundsportchannel.de | DE: AUTO MOTOR SPORT HD
+axn.de | DE: AXN BLACK FHD
+aÃ¶sunnahalnabawiyah.tr | TR: AL SUNNAH AL NABAWIYAH HD
+beingurme.tr | TR: BE*IN GURME HD
+beiniz.tr | TR: be*IN IZ FHD
+beinmoviespremier.tr | TR: BE*IN MOVIES PREMIER FHD
+beinmoviesturk.tr | TR: be*IN MOVIES TURK FHD
+beinseriescomedy.tr | TR: bE*IN SERIES 1 FHD
+beinseriesscifi.tr | TR: bE*IN SERIES 2 FHD
+beinseriesvice.tr | TR: BE*IN SERIES 3 FHD
+beinsports5.tr | TR: bE*IN SPORTS 5 HD
+boomerang.de | DE: CARTOONITO HD
+crimeplusinvestigation.de | DE: CRIME INVESTIGATION
+discoverychannel.de | DE: DISCOVERY HD
+dreamturk.tr | TR: DREAM TURK HD
+ducktv.tr | TR: DUCK TV
+eurod.tr | TR: EURO D
+euronews.de | DE: EURONEWS GERMANY HD
+fxnetwork.tr | TR: FX FHD
+gstv.tr | TR: GS TV HD
+halk.tr | TR: HALK TV FHD
+hse24extra.de | DE: HSE 24 EXTRA HD
+kabeleinsclassic.de | DE: KABEL 1 CLASSICS
+kanal26.tr | TR: KANAL 26
+kanal33.tr | TR: KANAL 33
+kanalv.tr | TR: Kanal V
+kinowelt.de | DE: KINOWELT HD
+kozatv.tr | TR: KOZA TV  HD
+kralpop.tr | TR: KRAL POP HD
+kronetv.at | AT: KRONE TV á´´á´°
+meltemtv.tr | TR: MELTEM TV
+nickelodeonhd.tr | TR: NICKELODEON HD
+nicktoons.tr | TR: NICKTOONS
+oe24tv.ay | AT: OE24 TV á´´á´°
+powertv.tr | TR: POWER HD
+riceotv.de | DE: RiC HD
+romance.de | DE: SKY ROMANCE TV
+schautv.at | AT: SCHAU TV á´´á´°
+semerkand.tr | TR: SEMERKAND TV HD
+showmax.tr | TR: SHOW MAX
+sixxaustria.at | AT: SIXX AUSTRIA á´´á´°
+sky1.de | DE: SKY ONE HD
+skybundesliga.de | DE: SKY BUNDESLIGA HD
+skybundesliga1.de | DE: SKY SPORT BUNDESLIGA 1 HEVC
+skybundesliga10.de | DE: SKY BUNDESLIGA 10 HD ( Only During Live Matches )
+skybundesliga2.de | DE: SKY BUNDESLIGA 2 HD ( Only During Live Matches )
+skybundesliga3.de | DE: SKY BUNDESLIGA 3 HD ( Only During Live Matches )
+skybundesliga4.de | DE: SKY BUNDESLIGA 4 HD ( Only During Live Matches )
+skybundesliga5.de | DE: SKY BUNDESLIGA 5 HD ( Only During Live Matches )
+skybundesliga6.de | DE: SKY BUNDESLIGA 6 HD ( Only During Live Matches )
+skybundesliga7.de | DE: SKY BUNDESLIGA 7 HD ( Only During Live Matches )
+skybundesliga8.de | DE: SKY BUNDESLIGA 8 HD ( Only During Live Matches )
+skybundesliga9.de | DE: SKY BUNDESLIGA 9 HD ( Only During Live Matches )
+skycinemafamily.de | DE: SKY CINEMA FAMILY HD
+skycinemapremieren.de | DE: SKY CINEMA PREMIEREN HD
+skycinemaspecial.de | DE: SKY CINEMA SPECIAL HEVC
+skycrimehd.de | DE: SKY CRIME HD
+skydocumentarieshd.de | DE: SKY DOCUMENTARIES FHD
+skynaturehd.de | DE: SKY NATURE HD
+skysportaustria.at | AT: SKY SPORT AUSTRIA  1 FHD
+skysportaustria2.at | AT: SKY SPORT AUSTRIA  2 FHD
+skysportaustria3.at | AT: SKY SPORT AUSTRIA  3 FHD
+skysportaustria4.at | AT: SKY SPORT AUSTRIA  4 FHD
+skysportaustria5.at | AT: SKY SPORT AUSTRIA 5 FHD
+skysportaustria6.at | AT: SKY SPORT AUSTRIA  6 FHD
+skysportaustria7.at | AT: SKY SPORT AUSTRIA  7 FHD
+skysportsnewshd.de | DE: SKY SPORT NEWS HD
+sonnenklar.de | DE: Sonnenklar TV
+sporsmart.tr | TR: SPOR SMART 2 HD
+sport1plus.de | DE: SPORT 1 + FHD
+sportdigital.de | DE: SPORTDIGITAL FUSSBALL FHD
+taraftar1.tr | TR: be*IN SPORTS 1 SD
+taraftar2.tr | TR: be*IN SPORTS 2 HD
+trtdiyanet.tr | TR: DIYANET TV
+tv5.tr | TR: TV5
+universal.de | DE: UNIVERSAL TV HD
+vav.tr | TR: VAV TV
+viasathistory.tr | TR: ViASAT HiSTORY FHD
+waidwerk.de | DE: WAIDWERK HD+
+warnercomedy.de | DE: WARNER TV COMEDY HD
+warnerfilm.de | DE: WARNER TV FILM HD
+warnerserie.de | DE: WARNER TV SERIE HD
+wetterfernsehen.de | DE: wetter.com TV
+yabantv.tr | TR: YABAN TV HD
