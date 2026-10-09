@@ -1,0 +1,65 @@
+DEIN EIGENER EPG FÜR IPTV SMARTERS – OHNE IPTV-PASSWÖRTER
+=========================================================
+
+WOFÜR?
+Dieses Paket nutzt deine Sender-IDs aus Sender_EPG.txt und passt aktuelle
+öffentliche XMLTV-Programmdaten an genau diese IDs an. Damit kannst du weiter
+mit Xtream Codes angemeldet bleiben (Live-TV, Filme, Serien, Updates bleiben).
+Es werden KEINE Streams, Anmeldedaten oder Passwörter benötigt.
+
+WICHTIGE EINSCHRÄNKUNGEN
+- Dieses Paket wurde technisch mit Beispieldaten getestet, nicht mit den
+  Live-EPG-Servern. Feeds können zeitweise offline sein oder andere IDs haben.
+- Es gibt keine Garantie, dass 278/278 Sender-IDs zugeordnet werden.
+- Wenn dein IPTV-Anbieter ein und dieselbe ID für zwei verschiedene Sender
+  benutzt, kann kein EPG diese gleichzeitig korrekt auseinanderhalten,
+  solange Smarters die IDs aus dem Xtream-Profil unverändert verwendet.
+  Beispiel: tgrthaber.tr bei TRT Haber UND TGRT Haber.
+- Ältere Smarters-Versionen unterstützen ggf. keine externen XMLTV-Quellen
+  für Xtream-Profile. Du hast das EPG-Menü aber bereits öffnen können.
+
+A) ZUERST AM PC TESTEN (optional)
+1. Falls nötig, Python 3 unter https://www.python.org/downloads/ installieren.
+2. EPG_Paket in einen Ordner entpacken.
+3. PowerShell in diesem Ordner öffnen und ausführen:
+       py build_epg.py
+4. Danach sollte im Ordner epg.xml.gz, epg.xml und zuordnung.txt liegen.
+5. Die Datei zuordnung.txt zeigt die echte Trefferquote und fehlende IDs.
+   Falls keine Quellen erreichbar sind, werden keine EPG-Dateien erstellt.
+
+B) AUTOMATISCHER LINK ÜBER GITHUB (kostenlos)
+1. Kostenloses GitHub-Konto haben bzw. erstellen: https://github.com
+2. Ein neues öffentliches Repository anlegen, beispielsweise 'mein-epg'.
+3. Alle Dateien AUS dem entpackten EPG_Paket in das Repo hochladen.
+   Wichtig: Die Unterordnerstruktur '.github/workflows/epg-update.yml'
+   muss erhalten bleiben! (Ggf. Datei im Webinterface einzeln erstellen.)
+4. Unter 'Actions' den Workflow 'EPG automatisch aktualisieren' wählen,
+   auf 'Run workflow' klicken und den Durchlauf abwarten.
+5. Bei Erfolg erscheinen epg.xml, epg.xml.gz und zuordnung.txt im Repo.
+6. Dein EPG-Link lautet dann:
+       https://raw.githubusercontent.com/DEIN-GITHUB-NAME/mein-epg/main/epg.xml.gz
+   'DEIN-GITHUB-NAME' und 'mein-epg' durch deine Werte ersetzen.
+7. Bei IPTV Smarters 4.0 im EPG-Menü 'Quelle hinzufügen' wählen,
+   diese Adresse eintragen und anschließend EPG aktualisieren.
+8. GitHub Actions aktualisiert das EPG automatisch ungefähr alle 12 Stunden.
+   Eventuelle GitHub-Action-Beschränkungen und Ausfälle der Quelldaten
+   können den Zeitplan verzögern.
+
+WENN ACTIONS NICHT IN DAS REPOSITORY SCHREIBEN KANN
+Repository -> Settings -> Actions -> General -> Workflow permissions:
+'Read and write permissions' einstellen, falls diese Option angeboten wird.
+Der Workflow selbst fordert bereits 'contents: write' an.
+
+WENN IPTV SMARTERS KEIN .GZ LESEN KANN
+Die Adresse stattdessen auf /epg.xml enden lassen.
+
+QUELLEN (ÖFFENTLICHE EPG-DATEN)
+- epgshare01.online: DE, TR und AT
+- iptv-epg.org: DE, TR
+- iptv-org.github.io/epg: weitere DE-, TR- und AT-Guides
+Die Quellen werden der Reihe nach geprüft; die erste passende Zuordnung
+für eine Sender-ID gewinnt. Keine IPTV-Abonnements oder Streams enthalten.
+
+DATENSCHUTZ
+sender_ids.json enthält nur Senderkennungen und Senderbezeichnungen.
+Bitte füge KEINE M3U mit Username/Passwort in ein öffentliches GitHub-Repo ein.

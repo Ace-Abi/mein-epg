@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "13thstreet.de",
+    "name": "DE: 13TH STREET HD"
+  },
+  {
+    "id": "24.tr",
+    "name": "TR: HT SPOR HD"
+  },
+  {
+    "id": "360.tr",
+    "name": "TR: 360 FHD"
+  },
+  {
+    "id": "3sat.de",
+    "name": "DE: 3 SAT HD"
+  },
+  {
+    "id": "a2tv.tr",
+    "name": "TR: A2 HD"
+  },
+  {
+    "id": "ahaber.tr",
+    "name": "TR: A HABER HD"
+  },
+  {
+    "id": "anews.tr",
+    "name": "TR: A NEWS HD"
+  },
+  {
+    "id": "animalplanet.de",
+    "name": "DE: ANIMAL PLANET HD"
+  },
+  {
+    "id": "anixe.de",
+    "name": "DE: ANIXE+ HD"
+  },
+  {
+    "id": "apara.tr",
+    "name": "TR: A PARA FHD"
+  },
+  {
+    "id": "ard.de",
+    "name": "DE: DAS ERSTE FHD"
+  },
+  {
+    "id": "ardalpha.de",
+    "name": "DE: ARD alpha HD"
+  },
+  {
+    "id": "arte.de",
+    "name": "DE: ARTE HD"
+  },
+  {
+    "id": "aspor.tr",
+    "name": "TR: A SPOR HD"
+  },
+  {
+    "id": "atv.at",
+    "name": "AT: ATV  FHD"
+  },
+  {
+    "id": "atv.tr",
+    "name": "TR: ATV HD"
+  },
+  {
+    "id": "atv2.at",
+    "name": "AT: ATV 2 FHD"
+  },
+  {
+    "id": "automotorundsportchannel.de",
+    "name": "DE: AUTO MOTOR SPORT HD"
+  },
+  {
+    "id": "axn.de",
+    "name": "DE: AXN BLACK FHD"
+  },
+  {
+    "id": "aÃ¶sunnahalnabawiyah.tr",
+    "name": "TR: AL SUNNAH AL NABAWIYAH HD"
+  },
+  {
+    "id": "babytv.tr",
+    "name": "TR: BABY TV HD"
+  },
+  {
+    "id": "bbcearth.tr",
+    "name": "TR: BBC EARTH FHD"
+  },
+  {
+    "id": "beingurme.tr",
+    "name": "TR: BE*IN GURME HD"
+  },
+  {
+    "id": "beiniz.tr",
+    "name": "TR: be*IN IZ FHD"
+  },
+  {
+    "id": "beinmoviespremier.tr",
+    "name": "TR: BE*IN MOVIES PREMIER FHD"
+  },
+  {
+    "id": "beinmoviesturk.tr",
+    "name": "TR: be*IN MOVIES TURK FHD"
+  },
+  {
+    "id": "beinseriescomedy.tr",
+    "name": "TR: bE*IN SERIES 1 FHD"
+  },
+  {
+    "id": "beinseriesscifi.tr",
+    "name": "TR: bE*IN SERIES 2 FHD"
+  },
+  {
+    "id": "beinseriesvice.tr",
+    "name": "TR: BE*IN SERIES 3 FHD"
+  },
+  {
+    "id": "beinsports3.tr",
+    "name": "TR: be*IN SPORTS 3 HD"
+  },
+  {
+    "id": "beinsports4.tr",
+    "name": "TR: be*IN SPORTS 4 HD"
+  },
+  {
+    "id": "beinsports5.tr",
+    "name": "TR: bE*IN SPORTS 5 HD"
+  },
+  {
+    "id": "beinsportshaber.tr",
+    "name": "TR: be*IN SPORTS HABER HD"
+  },
+  {
+    "id": "beinsportsmax1.tr",
+    "name": "TR: be*IN SPORTS MAX 1 FHD"
+  },
+  {
+    "id": "beinsportsmax2.tr",
+    "name": "TR: be*IN SPORTS MAX 2 FHD"
+  },
+  {
+    "id": "benguturk.tr",
+    "name": "TR: BENGÃœTÃœRK FHD"
+  },
+  {
+    "id": "beyaztv.tr",
+    "name": "TR:  BEYAZ TV HD"
+  },
+  {
+    "id": "bibeltv.de",
+    "name": "DE: Bibel TV"
+  },
+  {
+    "id": "bild.de",
+    "name": "DE: DF1 HD"
+  },
+  {
+    "id": "bloomberght.tr",
+    "name": "TR: BLOOMBERG HD"
+  },
+  {
+    "id": "boomerang.de",
+    "name": "DE: CARTOONITO HD"
+  },
+  {
+    "id": "br.de",
+    "name": "DE: BR FERNSEHEN HD"
+  },
+  {
+    "id": "cartoonito.tr",
+    "name": "TR: CARTOONITO HD"
+  },
+  {
+    "id": "cartoonnetwork.de",
+    "name": "DE: CARTOON NETWORK HD"
+  },
+  {
+    "id": "cartoonnetwork.tr",
+    "name": "TR: CARTOON NETWORK HD"
+  },
+  {
+    "id": "cnnturk.tr",
+    "name": "TR: CNN TURK HD"
+  },
+  {
+    "id": "comedycentral.de",
+    "name": "DE: COMEDY CENTRAL 1+"
+  },
+  {
+    "id": "crimeplusinvestigation.de",
+    "name": "DE: CRIME INVESTIGATION"
+  },
+  {
+    "id": "davinci.tr",
+    "name": "TR: DA VINCI LEARNING"
+  },
+  {
+    "id": "dazn1.de",
+    "name": "DE: DAZN 1 4K"
+  },
+  {
+    "id": "dazn2.de",
+    "name": "DE: DAZN 2 4K"
+  },
+  {
+    "id": "deluxemusic.de",
+    "name": "DE: DELUXE MUSIC  HD"
+  },
+  {
+    "id": "discoverychannel.de",
+    "name": "DE: DISCOVERY HD"
+  },
+  {
+    "id": "discoverychannel.tr",
+    "name": "TR: DISCOVERY CHANNEL FHD"
+  },
+  {
+    "id": "discoveryid.tr",
+    "name": "TR: DISCOVERY ID HD"
+  },
+  {
+    "id": "disneychannel.de",
+    "name": "DE: DISNEY CHANNEL  HD"
+  },
+  {
+    "id": "disneyjunior.tr",
+    "name": "TR: DISNEY JR FHD"
+  },
+  {
+    "id": "dizismartmax.tr",
+    "name": "TR: DIZI SMART MAX FHD"
+  },
+  {
+    "id": "dizismartpremium.tr",
+    "name": "TR: DIZI SMART PREMIUM HD"
+  },
+  {
+    "id": "dmax.de",
+    "name": "DE: DMAX HD"
+  },
+  {
+    "id": "dmax.tr",
+    "name": "TR: DMAX FHD"
+  },
+  {
+    "id": "dokusat.de",
+    "name": "DE: DOKUSAT"
+  },
+  {
+    "id": "dreamturk.tr",
+    "name": "TR: DREAM TURK HD"
+  },
+  {
+    "id": "ducktv.tr",
+    "name": "TR: DUCK TV"
+  },
+  {
+    "id": "eentertainment.de",
+    "name": "DE: E! ENTERTAINMENT HEVC"
+  },
+  {
+    "id": "esports1.de",
+    "name": "DE: eSPORTS1"
+  },
+  {
+    "id": "eurod.tr",
+    "name": "TR: EURO D"
+  },
+  {
+    "id": "euronews.de",
+    "name": "DE: EURONEWS GERMANY HD"
+  },
+  {
+    "id": "eurosport1.de",
+    "name": "DE: EUROSPORT 1 HD"
+  },
+  {
+    "id": "eurosport1.tr",
+    "name": "TR: EUROSPORT 1 FHD"
+  },
+  {
+    "id": "eurosport2.de",
+    "name": "DE: EUROSPORT 2 HD"
+  },
+  {
+    "id": "eurosport2.tr",
+    "name": "TR: EUROSPORT 2 FHD"
+  },
+  {
+    "id": "fbtv.tr",
+    "name": "TR: FB TV  HD"
+  },
+  {
+    "id": "filmbox.tr",
+    "name": "TR: FILMSCREEN FHD"
+  },
+  {
+    "id": "fox.tr",
+    "name": "TR: NOW HD"
+  },
+  {
+    "id": "fxnetwork.tr",
+    "name": "TR: FX FHD"
+  },
+  {
+    "id": "geotelevision.de",
+    "name": "DE: GEO TELEVISION FHD"
+  },
+  {
+    "id": "gstv.tr",
+    "name": "TR: GS TV HD"
+  },
+  {
+    "id": "haberglobal.tr",
+    "name": "TR: GLOBAL HABER FHD"
+  },
+  {
+    "id": "haberturk.tr",
+    "name": "TR: HABER TURK HD"
+  },
+  {
+    "id": "halk.tr",
+    "name": "TR: HALK TV FHD"
+  },
+  {
+    "id": "hgtv.de",
+    "name": "DE: HGTV"
+  },
+  {
+    "id": "history.de",
+    "name": "DE: HISTORY HD"
+  },
+  {
+    "id": "hr.de",
+    "name": "DE: HR FERNSEHEN HD"
+  },
+  {
+    "id": "hse24.de",
+    "name": "DE: HSE24 HD"
+  },
+  {
+    "id": "hse24extra.de",
+    "name": "DE: HSE 24 EXTRA HD"
+  },
+  {
+    "id": "kabel1.de",
+    "name": "DE: KABEL 1 HD"
+  },
+  {
+    "id": "kabeleinsclassic.de",
+    "name": "DE: KABEL 1 CLASSICS"
+  },
+  {
+    "id": "kabeleinsdoku.de",
+    "name": "DE: KABEL EINS DOKU FHD"
+  },
+  {
+    "id": "kanal26.tr",
+    "name": "TR: KANAL 26"
+  },
+  {
+    "id": "kanal33.tr",
+    "name": "TR: KANAL 33"
+  },
+  {
+    "id": "kanal7.tr",
+    "name": "TR: KANAL 7 HD"
+  },
+  {
+    "id": "kanald.tr",
+    "name": "TR: KANAL D HD"
+  },
+  {
+    "id": "kanalv.tr",
+    "name": "TR: Kanal V"
+  },
+  {
+    "id": "kika.de",
+    "name": "DE: KIKA HD"
+  },
+  {
+    "id": "kinowelt.de",
+    "name": "DE: KINOWELT HD"
+  },
+  {
+    "id": "kozatv.tr",
+    "name": "TR: KOZA TV  HD"
+  },
+  {
+    "id": "kralpop.tr",
+    "name": "TR: KRAL POP HD"
+  },
+  {
+    "id": "kronetv.at",
+    "name": "AT: KRONE TV á´´á´°"
+  },
+  {
+    "id": "ktv.de",
+    "name": "DE: K-TV"
+  },
+  {
+    "id": "linetv.tr",
+    "name": "TR: LINE TV"
+  },
+  {
+    "id": "marcopolotv.de",
+    "name": "DE: MARCO POLO TV HD"
+  },
+  {
+    "id": "mdr.de",
+    "name": "DE: MDR HD"
+  },
+  {
+    "id": "meltemtv.tr",
+    "name": "TR: MELTEM TV"
+  },
+  {
+    "id": "minikacocuk.tr",
+    "name": "TR: MINIKA COCUK"
+  },
+  {
+    "id": "minikago.tr",
+    "name": "TR: MINIKA GO"
+  },
+  {
+    "id": "motorvision.de",
+    "name": "DE: MOTORVISION TV"
+  },
+  {
+    "id": "moviesmartclassic.tr",
+    "name": "TR: MOVÄ°E SMART CLASSÄ°C FHD"
+  },
+  {
+    "id": "moviesmartturk.tr",
+    "name": "TR: MOVÄ°E SMART TURK FHD"
+  },
+  {
+    "id": "n24doku.at",
+    "name": "AT: N24 DOKU á´´á´°"
+  },
+  {
+    "id": "n24doku.de",
+    "name": "DE: N24 DOKU"
+  },
+  {
+    "id": "natgeo.de",
+    "name": "DE: NAT GEO HD"
+  },
+  {
+    "id": "natgeo.tr",
+    "name": "TR: NATIONAL GEOGRAPHIC HD"
+  },
+  {
+    "id": "natgeowild.de",
+    "name": "DE: NAT GEO WILD HD"
+  },
+  {
+    "id": "natgeowild.tr",
+    "name": "TR: NAT GEO WILD HD"
+  },
+  {
+    "id": "ndr.de",
+    "name": "DE: NDR HD"
+  },
+  {
+    "id": "nickelodeonhd.tr",
+    "name": "TR: NICKELODEON HD"
+  },
+  {
+    "id": "nickjr.de",
+    "name": "DE: NICK JR. HD"
+  },
+  {
+    "id": "nickjr.tr",
+    "name": "TR: NICK JR HD"
+  },
+  {
+    "id": "nicktoons.de",
+    "name": "DE: NICKTOONS"
+  },
+  {
+    "id": "nicktoons.tr",
+    "name": "TR: NICKTOONS"
+  },
+  {
+    "id": "nowus.de",
+    "name": "DE: TV NOW!"
+  },
+  {
+    "id": "ntv.de",
+    "name": "DE: N-TV FHD"
+  },
+  {
+    "id": "ntv.tr",
+    "name": "TR: NTV HABER HD"
+  },
+  {
+    "id": "oe24tv.ay",
+    "name": "AT: OE24 TV á´´á´°"
+  },
+  {
+    "id": "one.de",
+    "name": "DE: ONE HD"
+  },
+  {
+    "id": "orf1.at",
+    "name": "AT: ORF 1 FHD"
+  },
+  {
+    "id": "orf2.at",
+    "name": "AT: ORF 2 FHD"
+  },
+  {
+    "id": "orf2.de",
+    "name": "AT: ORF2 Wien á´´á´°"
+  },
+  {
+    "id": "orf3.at",
+    "name": "AT: ORF III SD"
+  },
+  {
+    "id": "orfsport.at",
+    "name": "AT: ORF SPORT  + á´´á´°"
+  },
+  {
+    "id": "phoenix.de",
+    "name": "DE: PHOENIX"
+  },
+  {
+    "id": "powertv.tr",
+    "name": "TR: POWER HD"
+  },
+  {
+    "id": "pro7.de",
+    "name": "DE: ProSieben HD"
+  },
+  {
+    "id": "prosiebenfun.de",
+    "name": "DE: ProSieben  FUN HD"
+  },
+  {
+    "id": "prosiebenmaxx.de",
+    "name": "DE: PRO7 MAXX HEVC"
+  },
+  {
+    "id": "puls24.at",
+    "name": "AT: PULS 24 á´´á´°"
+  },
+  {
+    "id": "puls4.at",
+    "name": "AT: PULS 4 á´´á´°"
+  },
+  {
+    "id": "qvc.de",
+    "name": "DE: QVC HD"
+  },
+  {
+    "id": "rbb.de",
+    "name": "DE: RBB HD"
+  },
+  {
+    "id": "riceotv.de",
+    "name": "DE: RiC HD"
+  },
+  {
+    "id": "romance.de",
+    "name": "DE: SKY ROMANCE TV"
+  },
+  {
+    "id": "rtl.de",
+    "name": "DE: RTL HD"
+  },
+  {
+    "id": "rtl2.de",
+    "name": "DE: RTL 2 HD"
+  },
+  {
+    "id": "rtlcrime.de",
+    "name": "DE: RTL CRIME FHD"
+  },
+  {
+    "id": "rtlliving.de",
+    "name": "DE: RTL LIVING"
+  },
+  {
+    "id": "rtlnitro.de",
+    "name": "DE: RTL NITRO HD"
+  },
+  {
+    "id": "rtlpassion.de",
+    "name": "DE: RTL Passion"
+  },
+  {
+    "id": "rtlup.de",
+    "name": "DE: RTL UP FHD"
+  },
+  {
+    "id": "sat1.at",
+    "name": "AT: SAT 1 á´´á´°"
+  },
+  {
+    "id": "sat1.de",
+    "name": "DE: SAT 1 HD"
+  },
+  {
+    "id": "sat1emotions.de",
+    "name": "DE: SAT 1 EMOTIONS"
+  },
+  {
+    "id": "sat1gold.de",
+    "name": "DE: SAT 1 GOLD HD"
+  },
+  {
+    "id": "schautv.at",
+    "name": "AT: SCHAU TV á´´á´°"
+  },
+  {
+    "id": "semerkand.tr",
+    "name": "TR: SEMERKAND TV HD"
+  },
+  {
+    "id": "servustv.at",
+    "name": "AT: SERVUS TV Ã–STERREICH á´´á´°"
+  },
+  {
+    "id": "showmax.tr",
+    "name": "TR: SHOW MAX"
+  },
+  {
+    "id": "showtv.tr",
+    "name": "TR: SHOW TURK"
+  },
+  {
+    "id": "silverline.de",
+    "name": "DE: SILVERLINE HD"
+  },
+  {
+    "id": "sinema1001hd.tr",
+    "name": "TR: SINEMA TV 1001 FHD"
+  },
+  {
+    "id": "sinema1002.tr",
+    "name": "TR: SINEMA TV 1002 FHD"
+  },
+  {
+    "id": "sinema2hd.tr",
+    "name": "TR: SINEMA TV 2 FHD"
+  },
+  {
+    "id": "sinemaaile2hd.tr",
+    "name": "TR: SINEMA TV AILE 2 FHD"
+  },
+  {
+    "id": "sinemaailehd.tr",
+    "name": "TR: SINEMA TV AILE FHD"
+  },
+  {
+    "id": "sinemaaksiyon2hd.tr",
+    "name": "TR: SINEMA TV AKSIYON 2 HD"
+  },
+  {
+    "id": "sinemaaksiyonhd.tr",
+    "name": "TR: SINEMA TV AKSIYON FHD"
+  },
+  {
+    "id": "sinemakomedi2hd.tr",
+    "name": "TR: SINEMA TV KOMEDI 2 FHD"
+  },
+  {
+    "id": "sinemakomedihd.tr",
+    "name": "TR: SINEMA TV KOMEDI FHD"
+  },
+  {
+    "id": "sinematvhd.tr",
+    "name": "TR: SÄ°NEMA TV FHD"
+  },
+  {
+    "id": "sinemayerli.tr",
+    "name": "TR: SÄ°NEMA YERLÄ° HD"
+  },
+  {
+    "id": "sinemayerli2.tr",
+    "name": "TR: SÄ°NEMA YERLÄ° 2 HD"
+  },
+  {
+    "id": "sixx.de",
+    "name": "DE: SIXX HD"
+  },
+  {
+    "id": "sixxaustria.at",
+    "name": "AT: SIXX AUSTRIA á´´á´°"
+  },
+  {
+    "id": "sky1.de",
+    "name": "DE: SKY ONE HD"
+  },
+  {
+    "id": "skyatlantic.de",
+    "name": "DE: SKY CINEMA ATLANTIC HD"
+  },
+  {
+    "id": "skybundesliga.de",
+    "name": "DE: SKY BUNDESLIGA HD"
+  },
+  {
+    "id": "skybundesliga1.de",
+    "name": "DE: SKY SPORT BUNDESLIGA 1 HEVC"
+  },
+  {
+    "id": "skybundesliga10.de",
+    "name": "DE: SKY BUNDESLIGA 10 HD ( Only During Live Matches )"
+  },
+  {
+    "id": "skybundesliga2.de",
+    "name": "DE: SKY BUNDESLIGA 2 HD ( Only During Live Matches )"
+  },
+  {
+    "id": "skybundesliga3.de",
+    "name": "DE: SKY BUNDESLIGA 3 HD ( Only During Live Matches )"
+  },
+  {
+    "id": "skybundesliga4.de",
+    "name": "DE: SKY BUNDESLIGA 4 HD ( Only During Live Matches )"
+  },
+  {
+    "id": "skybundesliga5.de",
+    "name": "DE: SKY BUNDESLIGA 5 HD ( Only During Live Matches )"
+  },
+  {
+    "id": "skybundesliga6.de",
+    "name": "DE: SKY BUNDESLIGA 6 HD ( Only During Live Matches )"
+  },
+  {
+    "id": "skybundesliga7.de",
+    "name": "DE: SKY BUNDESLIGA 7 HD ( Only During Live Matches )"
+  },
+  {
+    "id": "skybundesliga8.de",
+    "name": "DE: SKY BUNDESLIGA 8 HD ( Only During Live Matches )"
+  },
+  {
+    "id": "skybundesliga9.de",
+    "name": "DE: SKY BUNDESLIGA 9 HD ( Only During Live Matches )"
+  },
+  {
+    "id": "skycinemaaction.de",
+    "name": "DE: SKY CINEMA ACTION HD"
+  },
+  {
+    "id": "skycinemaclassics.de",
+    "name": "DE: SKY CINEMA CLASSICS FHD"
+  },
+  {
+    "id": "skycinemafamily.de",
+    "name": "DE: SKY CINEMA FAMILY HD"
+  },
+  {
+    "id": "skycinemahighlights.de",
+    "name": "DE: SKY CINEMA SPECIAL HD"
+  },
+  {
+    "id": "skycinemapremieren.de",
+    "name": "DE: SKY CINEMA PREMIEREN HD"
+  },
+  {
+    "id": "skycinemaspecial.de",
+    "name": "DE: SKY CINEMA SPECIAL HEVC"
+  },
+  {
+    "id": "skycrimehd.de",
+    "name": "DE: SKY CRIME HD"
+  },
+  {
+    "id": "skydocumentarieshd.de",
+    "name": "DE: SKY DOCUMENTARIES FHD"
+  },
+  {
+    "id": "skykrimi.de",
+    "name": "DE: SKY CINEMA KRIMI HD"
+  },
+  {
+    "id": "skynaturehd.de",
+    "name": "DE: SKY NATURE HD"
+  },
+  {
+    "id": "skyreplay.de",
+    "name": "DE: SKY REPLAY HEVC"
+  },
+  {
+    "id": "skyshowcasehd.de",
+    "name": "DE: SKY SHOWCASE HD"
+  },
+  {
+    "id": "skysport1.de",
+    "name": "DE: SKY SPORT 1 HD"
+  },
+  {
+    "id": "skysport10.de",
+    "name": "DE: SKY SPORT 10 HD"
+  },
+  {
+    "id": "skysport2.de",
+    "name": "DE: SKY SPORT 2 HD"
+  },
+  {
+    "id": "skysport3.de",
+    "name": "DE: SKY SPORT 3 HD"
+  },
+  {
+    "id": "skysport4.de",
+    "name": "DE: SKY SPORT 4 HD"
+  },
+  {
+    "id": "skysport5.de",
+    "name": "DE: SKY SPORT 5 HD"
+  },
+  {
+    "id": "skysport6.de",
+    "name": "DE: SKY SPORT 6 HD"
+  },
+  {
+    "id": "skysport7.de",
+    "name": "DE: SKY SPORT 7 HD"
+  },
+  {
+    "id": "skysport8.de",
+    "name": "DE: SKY SPORT 8 HD"
+  },
+  {
+    "id": "skysport9.de",
+    "name": "DE: SKY SPORT 9 HD"
+  },
+  {
+    "id": "skysportaustria.at",
+    "name": "AT: SKY SPORT AUSTRIA  1 FHD"
+  },
+  {
+    "id": "skysportaustria2.at",
+    "name": "AT: SKY SPORT AUSTRIA  2 FHD"
+  },
+  {
+    "id": "skysportaustria3.at",
+    "name": "AT: SKY SPORT AUSTRIA  3 FHD"
+  },
+  {
+    "id": "skysportaustria4.at",
+    "name": "AT: SKY SPORT AUSTRIA  4 FHD"
+  },
+  {
+    "id": "skysportaustria5.at",
+    "name": "AT: SKY SPORT AUSTRIA 5 FHD"
+  },
+  {
+    "id": "skysportaustria6.at",
+    "name": "AT: SKY SPORT AUSTRIA  6 FHD"
+  },
+  {
+    "id": "skysportaustria7.at",
+    "name": "AT: SKY SPORT AUSTRIA  7 FHD"
+  },
+  {
+    "id": "skysportf1.de",
+    "name": "DE: SKY SPORT F1 HD"
+  },
+  {
+    "id": "skysportgolf.de",
+    "name": "DE: SKY SPORT GOLF HD"
+  },
+  {
+    "id": "skysportmix.de",
+    "name": "DE: SKY SPORT MIX HD"
+  },
+  {
+    "id": "skysportnews.de",
+    "name": "DE: SKY SPORT NEWS FHD"
+  },
+  {
+    "id": "skysportpremierleague.de",
+    "name": "DE: SKY SPORT PREMIER LEAGUE HD"
+  },
+  {
+    "id": "skysportsnewshd.de",
+    "name": "DE: SKY SPORT NEWS HD"
+  },
+  {
+    "id": "skysporttennis.de",
+    "name": "DE: SKY SPORT TENNIS HD"
+  },
+  {
+    "id": "skysporttopevent.de",
+    "name": "DE: SKY SPORT TOP EVENT HD"
+  },
+  {
+    "id": "sonnenklar.de",
+    "name": "DE: Sonnenklar TV"
+  },
+  {
+    "id": "spiegelgeschichte.de",
+    "name": "DE: SPIEGEL GESCHICHTE HD"
+  },
+  {
+    "id": "sporsmart.tr",
+    "name": "TR: SPOR SMART 2 HD"
+  },
+  {
+    "id": "sport1.de",
+    "name": "DE: SPORT 1 FHD"
+  },
+  {
+    "id": "sport1plus.de",
+    "name": "DE: SPORT 1 + FHD"
+  },
+  {
+    "id": "sportdigital.de",
+    "name": "DE: SPORTDIGITAL FUSSBALL FHD"
+  },
+  {
+    "id": "sportstv.tr",
+    "name": "TR: SPORTS TV HD"
+  },
+  {
+    "id": "srfernsehen.de",
+    "name": "DE: SR FERNSEHEN HD"
+  },
+  {
+    "id": "ssport.tr",
+    "name": "TR: S-SPORT 1 HD"
+  },
+  {
+    "id": "startv.tr",
+    "name": "TR: EURO STAR"
+  },
+  {
+    "id": "superrtl.de",
+    "name": "DE: SUPER RTL FHD"
+  },
+  {
+    "id": "swrsr.de",
+    "name": "DE: SWR HD"
+  },
+  {
+    "id": "syfy.de",
+    "name": "DE: SYFY HD"
+  },
+  {
+    "id": "tagesschau24.de",
+    "name": "DE: TAGESSCHAU 24 HD"
+  },
+  {
+    "id": "taraftar1.tr",
+    "name": "TR: be*IN SPORTS 1 SD"
+  },
+  {
+    "id": "taraftar2.tr",
+    "name": "TR: be*IN SPORTS 2 HD"
+  },
+  {
+    "id": "tele5.de",
+    "name": "DE: TELE 5 HD"
+  },
+  {
+    "id": "teve2.tr",
+    "name": "TR: TEVE 2 HD"
+  },
+  {
+    "id": "tgrthaber.tr",
+    "name": "TR: TRT HABER HD"
+  },
+  {
+    "id": "tlc.de",
+    "name": "DE: TLC HD"
+  },
+  {
+    "id": "toggoplus.de",
+    "name": "DE: TOGGO plus"
+  },
+  {
+    "id": "trt1.tr",
+    "name": "TR: TRT 1 HD"
+  },
+  {
+    "id": "trt2.tr",
+    "name": "TR: TRT 2 HD"
+  },
+  {
+    "id": "trt4k.tr",
+    "name": "TRT 4K"
+  },
+  {
+    "id": "trtavaz.tr",
+    "name": "TR: TRT AVAZ HD"
+  },
+  {
+    "id": "trtbelgesel.tr",
+    "name": "TR: TRT BELGESEL HD"
+  },
+  {
+    "id": "trtdiyanet.tr",
+    "name": "TR: DIYANET TV"
+  },
+  {
+    "id": "trtmuzik.tr",
+    "name": "TR: TRT MÃ¼zik FHD"
+  },
+  {
+    "id": "trtspor.tr",
+    "name": "TR: TRT SPOR HD"
+  },
+  {
+    "id": "trtsporyildiz.tr",
+    "name": "TR: TRT SPOR YILDIZ HD"
+  },
+  {
+    "id": "trtturk.tr",
+    "name": "TR: TRT TÃœRK HD"
+  },
+  {
+    "id": "trtworld.tr",
+    "name": "TR: TRT WORLD FHD"
+  },
+  {
+    "id": "tv5.tr",
+    "name": "TR: TV5"
+  },
+  {
+    "id": "tv8.tr",
+    "name": "TR: TV 8 HD"
+  },
+  {
+    "id": "tv85.tr",
+    "name": "TR: TV 8.5 HD"
+  },
+  {
+    "id": "tvnet.tr",
+    "name": "TR: TV NET HD"
+  },
+  {
+    "id": "ulketv.tr",
+    "name": "TR: ULKETV FHD"
+  },
+  {
+    "id": "ulusalkanal.tr",
+    "name": "TR: ULUSAL KANAL HD"
+  },
+  {
+    "id": "universal.de",
+    "name": "DE: UNIVERSAL TV HD"
+  },
+  {
+    "id": "vav.tr",
+    "name": "TR: VAV TV"
+  },
+  {
+    "id": "viasatexplore.tr",
+    "name": "TR: VÄ°ASAT EXPLORE FHD"
+  },
+  {
+    "id": "viasathistory.tr",
+    "name": "TR: ViASAT HiSTORY FHD"
+  },
+  {
+    "id": "vox.de",
+    "name": "DE: VOX HD"
+  },
+  {
+    "id": "waidwerk.de",
+    "name": "DE: WAIDWERK HD+"
+  },
+  {
+    "id": "warnercomedy.de",
+    "name": "DE: WARNER TV COMEDY HD"
+  },
+  {
+    "id": "warnerfilm.de",
+    "name": "DE: WARNER TV FILM HD"
+  },
+  {
+    "id": "warnerserie.de",
+    "name": "DE: WARNER TV SERIE HD"
+  },
+  {
+    "id": "wdr.de",
+    "name": "DE: WDR HD"
+  },
+  {
+    "id": "welt.de",
+    "name": "DE: WELT FHD"
+  },
+  {
+    "id": "weltderwunder.de",
+    "name": "DE: WELT DER WUNDER"
+  },
+  {
+    "id": "wetterfernsehen.de",
+    "name": "DE: wetter.com TV"
+  },
+  {
+    "id": "yabantv.tr",
+    "name": "TR: YABAN TV HD"
+  },
+  {
+    "id": "zdf.de",
+    "name": "DE: ZDF HD"
+  },
+  {
+    "id": "zdfinfo.de",
+    "name": "DE: ZDF INFO HD"
+  },
+  {
+    "id": "zdfneo.de",
+    "name": "DE: ZDF NEO HD"
+  }
+]
