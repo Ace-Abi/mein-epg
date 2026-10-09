@@ -12,10 +12,23 @@ import unicodedata
 import urllib.request
 import xml.etree.ElementTree as ET
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+# Temporäre Korrektur für die beobachtete Verschiebung bei deutschen Sendern.
+# 0 = Original-Zeiten, 3 = drei Stunden später. Nicht auf .tr/.at anwenden.
+DE_EPG_KORREKTUR_STUNDEN = 3
+
+
+def korrigiere_de_zeit(zeitwert: str) -> str:
+    """Verschiebt XMLTV-Start-/Endzeit um feste Stunden; erhält TZ-Suffix."""
+    if not zeitwert or len(zeitwert) < 14 or not zeitwert[:14].isdigit():
+        return zeitwert
+    zeit = datetime.strptime(zeitwert[:14], '%Y%m%d%H%M%S')
+    zeit += timedelta(hours=DE_EPG_KORREKTUR_STUNDEN)
+    return zeit.strftime('%Y%m%d%H%M%S') + zeitwert[14:]
+
 SOURCES = [
     ('EPGShare Türkei', 'https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz'),
     ('EPGShare Deutschland', 'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz'),
@@ -110,6 +123,10 @@ def main():
                     for dest in source_ids[cid]:
                         clone = copy.deepcopy(programme)
                         clone.set('channel', dest)
+                        if dest.endswith('.de') and DE_EPG_KORREKTUR_STUNDEN:
+                            for zeitfeld in ('start', 'stop'):
+                                if clone.get(zeitfeld):
+                                    clone.set(zeitfeld, korrigiere_de_zeit(clone.get(zeitfeld)))
                         collected_programmes[dest].append(clone)
             unresolved.difference_update(newly)
         status.append(f'{source_name}: {len(newly)} neue Sender-IDs zugeordnet')
