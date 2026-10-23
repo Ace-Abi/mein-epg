@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Persoenliches EPG-ID-Mapping (oeffentliche XMLTV-Quellen)" date="20261022155244 +0000"><channel id="13thstreet.de">
+<tv generator-info-name="Persoenliches EPG-ID-Mapping (oeffentliche XMLTV-Quellen)" date="20261023035345 +0000"><channel id="13thstreet.de">
     <display-name>DE - 13TH STREET</display-name>
     <icon src="https://iptv-epg.org/images/T6ZU9y1Rkqbs0MbotrQVpifwHDXAp5PiL1-fR0nQWQB12Vyh8zCPK2FUy-p6aP2DdboXFUT-w2IXwECskgOe2pesWmiHkDPFQFVA9oiA7wszgk5S" />
   </channel>
@@ -24745,51 +24745,6 @@ Ein Börsen-Investor wird ermordet. Bezirksstaatsanwalt Baxter setzt die Staatsa
   <programme start="20261023235700 +0300" stop="20261024000100 +0300" channel="babytv.tr">
     <title lang="tr">Gözlerini Kapat</title>
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022080000 +0000" channel="bbcearth.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022080000 +0000" stop="20261022090000 +0000" channel="bbcearth.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="bbcearth.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022100000 +0000" stop="20261022110000 +0000" channel="bbcearth.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="bbcearth.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="bbcearth.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022130000 +0000" stop="20261022140000 +0000" channel="bbcearth.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="bbcearth.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022150000 +0000" stop="20261022160000 +0000" channel="bbcearth.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261022160000 +0000" stop="20261022170000 +0000" channel="bbcearth.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -25105,21 +25060,50 @@ Ein Börsen-Investor wird ermordet. Bezirksstaatsanwalt Baxter setzt die Staatsa
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261021091500 +0000" stop="20261021110400 +0000" channel="beinsports3.tr">
-    <desc lang="tr">Man City - Ipswich.</desc>
-    <title lang="tr">Man City - Ipswich</title>
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="bbcearth.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261021110400 +0000" stop="20261021124800 +0000" channel="beinsports3.tr">
-    <desc lang="tr">Fulham - Hull City.</desc>
-    <title lang="tr">Fulham - Hull City</title>
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="bbcearth.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261021124800 +0000" stop="20261021144500 +0000" channel="beinsports3.tr">
-    <desc lang="tr">Brentford - Liverpool.</desc>
-    <title lang="tr">Brentford - Liverpool</title>
+  <programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="bbcearth.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261021144500 +0000" stop="20261021163000 +0000" channel="beinsports3.tr">
-    <desc lang="tr">Newcastle - Aston Villa.</desc>
-    <title lang="tr">Newcastle - Aston Villa</title>
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="bbcearth.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="bbcearth.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="bbcearth.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="bbcearth.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="bbcearth.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="bbcearth.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261021163000 +0000" stop="20261021181500 +0000" channel="beinsports3.tr">
     <desc lang="tr">Leeds - Man Utd.</desc>
@@ -25412,22 +25396,6 @@ Ein Börsen-Investor wird ermordet. Bezirksstaatsanwalt Baxter setzt die Staatsa
   <programme start="20261027200100 +0000" stop="20261027203000 +0000" channel="beinsports3.tr">
     <desc lang="tr">Brentford - Liverpool.</desc>
     <title lang="tr">Brentford - Liverpool</title>
-  </programme>
-  <programme start="20261021091500 +0000" stop="20261021110000 +0000" channel="beinsports4.tr">
-    <desc lang="tr">Rodez - Montpellier.</desc>
-    <title lang="tr">Rodez - Montpellier</title>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021124500 +0000" channel="beinsports4.tr">
-    <desc lang="tr">Le Mans - Toulouse.</desc>
-    <title lang="tr">Le Mans - Toulouse</title>
-  </programme>
-  <programme start="20261021124500 +0000" stop="20261021143000 +0000" channel="beinsports4.tr">
-    <desc lang="tr">Strasbourg - PSG.</desc>
-    <title lang="tr">Strasbourg - PSG</title>
-  </programme>
-  <programme start="20261021143000 +0000" stop="20261021161500 +0000" channel="beinsports4.tr">
-    <desc lang="tr">Lille - Brest.</desc>
-    <title lang="tr">Lille - Brest</title>
   </programme>
   <programme start="20261021161500 +0000" stop="20261021180000 +0000" channel="beinsports4.tr">
     <desc lang="tr">Troyes - Lens.</desc>
@@ -71572,51 +71540,6 @@ Meteor yağmurunu izlemek için uyanık kalmaya çalışırlar.</desc>
     <episode-num>S1 E28</episode-num>
     <title lang="tr">Mickey'nin Kulüp Evi+</title>
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022080000 +0000" channel="dizismartmax.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022080000 +0000" stop="20261022090000 +0000" channel="dizismartmax.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="dizismartmax.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022100000 +0000" stop="20261022110000 +0000" channel="dizismartmax.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="dizismartmax.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="dizismartmax.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022130000 +0000" stop="20261022140000 +0000" channel="dizismartmax.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="dizismartmax.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022150000 +0000" stop="20261022160000 +0000" channel="dizismartmax.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261022160000 +0000" stop="20261022170000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -71932,47 +71855,47 @@ Meteor yağmurunu izlemek için uyanık kalmaya çalışırlar.</desc>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022080000 +0000" channel="dizismartpremium.tr">
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022080000 +0000" stop="20261022090000 +0000" channel="dizismartpremium.tr">
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="dizismartpremium.tr">
+  <programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022100000 +0000" stop="20261022110000 +0000" channel="dizismartpremium.tr">
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="dizismartpremium.tr">
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="dizismartpremium.tr">
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022130000 +0000" stop="20261022140000 +0000" channel="dizismartpremium.tr">
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="dizismartpremium.tr">
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022150000 +0000" stop="20261022160000 +0000" channel="dizismartpremium.tr">
+  <programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="dizismartmax.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -72288,6 +72211,51 @@ Meteor yağmurunu izlemek için uyanık kalmaya çalışırlar.</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261025060000 +0000" stop="20261025070000 +0000" channel="dizismartpremium.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="dizismartpremium.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="dizismartpremium.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="dizismartpremium.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="dizismartpremium.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="dizismartpremium.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="dizismartpremium.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="dizismartpremium.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="dizismartpremium.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="dizismartpremium.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -77352,51 +77320,6 @@ Türkiye'nin farklı şehirlerinde faaliyet gösteren spor okullarında yapılan
     <icon src="https://iptv-epg.org/images/ejC0Ltm3yVYPlgW4PEnwSuPUG7C8o18Bwo2zp9NxNIXaf9Yy9twP-TYrVaYWK6lLAfCSbN_KTuNdYyJcf0P_E1lxUTGISG4KQgHiGH4oSRF8AZJffoLAWeqeIk5qf1gzSa8k4CjtnEmC9bYbSUC89zRBReSdgZ6ZtxZMaVXOBg1OlCV93iDpBlfOVQyrSpkcpSyHchmB" />
     <title lang="tr">Gece Haberi</title>
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022080000 +0000" channel="filmbox.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022080000 +0000" stop="20261022090000 +0000" channel="filmbox.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="filmbox.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022100000 +0000" stop="20261022110000 +0000" channel="filmbox.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="filmbox.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="filmbox.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022130000 +0000" stop="20261022140000 +0000" channel="filmbox.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="filmbox.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022150000 +0000" stop="20261022160000 +0000" channel="filmbox.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261022160000 +0000" stop="20261022170000 +0000" channel="filmbox.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -77708,6 +77631,51 @@ Türkiye'nin farklı şehirlerinde faaliyet gösteren spor okullarında yapılan
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261025060000 +0000" stop="20261025070000 +0000" channel="filmbox.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="filmbox.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="filmbox.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="filmbox.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="filmbox.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="filmbox.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="filmbox.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="filmbox.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="filmbox.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="filmbox.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -104296,51 +104264,6 @@ Einpacken, losfahren und auf unbestimmte Zeit die Welt entdecken. Nachdem sie au
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022080000 +0000" channel="moviesmartclassic.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022080000 +0000" stop="20261022090000 +0000" channel="moviesmartclassic.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="moviesmartclassic.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022100000 +0000" stop="20261022110000 +0000" channel="moviesmartclassic.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="moviesmartclassic.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="moviesmartclassic.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022130000 +0000" stop="20261022140000 +0000" channel="moviesmartclassic.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="moviesmartclassic.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022150000 +0000" stop="20261022160000 +0000" channel="moviesmartclassic.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261022160000 +0000" stop="20261022170000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -104656,47 +104579,47 @@ Einpacken, losfahren und auf unbestimmte Zeit die Welt entdecken. Nachdem sie au
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022080000 +0000" channel="moviesmartturk.tr">
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022080000 +0000" stop="20261022090000 +0000" channel="moviesmartturk.tr">
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="moviesmartturk.tr">
+  <programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022100000 +0000" stop="20261022110000 +0000" channel="moviesmartturk.tr">
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="moviesmartturk.tr">
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="moviesmartturk.tr">
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022130000 +0000" stop="20261022140000 +0000" channel="moviesmartturk.tr">
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="moviesmartturk.tr">
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022150000 +0000" stop="20261022160000 +0000" channel="moviesmartturk.tr">
+  <programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="moviesmartclassic.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -105012,6 +104935,51 @@ Einpacken, losfahren und auf unbestimmte Zeit die Welt entdecken. Nachdem sie au
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261025060000 +0000" stop="20261025070000 +0000" channel="moviesmartturk.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="moviesmartturk.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="moviesmartturk.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="moviesmartturk.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="moviesmartturk.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="moviesmartturk.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="moviesmartturk.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="moviesmartturk.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="moviesmartturk.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="moviesmartturk.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -236678,51 +236646,6 @@ Diesmal wird nicht nur der Rentenstreit in der Union satirisch aufs Korn genomme
     <icon src="https://iptv-epg.org/images/6QMMGA5KIoXObcasMU4AWQp83vaJKf4KyWJXtZFUkTzuSD9swuhqxaItOw-pQlMTiGYK462WJZpqzgokbIKES-HAMnP3wDSg3T13fT7bEhltP-XdisTYAe1nRAB3WS3NeVsBKOWKWnsiKt-ZMLeKwW7RivRtNKTqdnDwZkmvCxX68O1w3bWcosargb0sZkS0z4x57ceN" />
     <title lang="tr">Yabancı Sinema: Göç ( Move )</title>
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022080000 +0000" channel="trt4k.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022080000 +0000" stop="20261022090000 +0000" channel="trt4k.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="trt4k.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022100000 +0000" stop="20261022110000 +0000" channel="trt4k.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="trt4k.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="trt4k.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022130000 +0000" stop="20261022140000 +0000" channel="trt4k.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="trt4k.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022150000 +0000" stop="20261022160000 +0000" channel="trt4k.tr">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261022160000 +0000" stop="20261022170000 +0000" channel="trt4k.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -237034,6 +236957,51 @@ Diesmal wird nicht nur der Rentenstreit in der Union satirisch aufs Korn genomme
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261025060000 +0000" stop="20261025070000 +0000" channel="trt4k.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="trt4k.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="trt4k.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="trt4k.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="trt4k.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="trt4k.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="trt4k.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="trt4k.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="trt4k.tr">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="trt4k.tr">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
