@@ -1,8 +1,8 @@
-Stand UTC: 2026-11-04 04:14
+Stand UTC: 2026-11-04 16:12
 Insgesamt: 278 unterschiedliche Sender-IDs
 EPG gefunden: 193 Sender-IDs
 Nicht gefunden: 85 Sender-IDs
-Programme: 23852
+Programme: 23857
 
 QUELLEN
 EPGShare Türkei: 55 neue Sender-IDs zugeordnet
