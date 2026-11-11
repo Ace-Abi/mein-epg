@@ -1,8 +1,8 @@
-Stand UTC: 2026-11-11 11:10
+Stand UTC: 2026-11-11 22:01
 Insgesamt: 278 unterschiedliche Sender-IDs
 EPG gefunden: 193 Sender-IDs
 Nicht gefunden: 85 Sender-IDs
-Programme: 22330
+Programme: 24276
 
 QUELLEN
 EPGShare Türkei: 55 neue Sender-IDs zugeordnet
@@ -13,8 +13,8 @@ IPTV-EPG Deutschland: 13 neue Sender-IDs zugeordnet
 NICHT ERREICHBAR: IPTV-org Türkei TV+: HTTP Error 404: Not Found
 NICHT ERREICHBAR: IPTV-org Türkei Digiturk: HTTP Error 404: Not Found
 NICHT ERREICHBAR: IPTV-org Türkei D-Smart: HTTP Error 404: Not Found
-NICHT ERREICHBAR: IPTV-org Deutschland: HTTP Error 404: Not Found
-NICHT ERREICHBAR: IPTV-org Österreich: HTTP Error 404: Not Found
+NICHT ERREICHBAR: IPTV-org Deutschland: HTTP Error 503: Service Unavailable
+NICHT ERREICHBAR: IPTV-org Österreich: HTTP Error 503: Service Unavailable
 
 ZUGEORDNET (eigene ID <- Quell-ID)
 13thstreet.de <- 13THSTREET.de [IPTV-EPG Deutschland]
